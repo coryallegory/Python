@@ -100,6 +100,7 @@
   * [Decimal To Hexadecimal](https://github.com/TheAlgorithms/Python/blob/master/conversions/decimal_to_hexadecimal.py)
   * [Decimal To Octal](https://github.com/TheAlgorithms/Python/blob/master/conversions/decimal_to_octal.py)
   * [Hexadecimal To Decimal](https://github.com/TheAlgorithms/Python/blob/master/conversions/hexadecimal_to_decimal.py)
+  * [Molecular Chemistry](https://github.com/TheAlgorithms/Python/blob/master/conversions/molecular_chemistry.py)
   * [Prefix Conversions](https://github.com/TheAlgorithms/Python/blob/master/conversions/prefix_conversions.py)
   * [Roman To Integer](https://github.com/TheAlgorithms/Python/blob/master/conversions/roman_to_integer.py)
   * [Temperature Conversions](https://github.com/TheAlgorithms/Python/blob/master/conversions/temperature_conversions.py)
@@ -205,8 +206,10 @@
   * [Heaps Algorithm](https://github.com/TheAlgorithms/Python/blob/master/divide_and_conquer/heaps_algorithm.py)
   * [Heaps Algorithm Iterative](https://github.com/TheAlgorithms/Python/blob/master/divide_and_conquer/heaps_algorithm_iterative.py)
   * [Inversions](https://github.com/TheAlgorithms/Python/blob/master/divide_and_conquer/inversions.py)
+  * [Kth Order Statistic](https://github.com/TheAlgorithms/Python/blob/master/divide_and_conquer/kth_order_statistic.py)
   * [Max Subarray Sum](https://github.com/TheAlgorithms/Python/blob/master/divide_and_conquer/max_subarray_sum.py)
   * [Mergesort](https://github.com/TheAlgorithms/Python/blob/master/divide_and_conquer/mergesort.py)
+  * [Peak](https://github.com/TheAlgorithms/Python/blob/master/divide_and_conquer/peak.py)
   * [Power](https://github.com/TheAlgorithms/Python/blob/master/divide_and_conquer/power.py)
   * [Strassen Matrix Multiplication](https://github.com/TheAlgorithms/Python/blob/master/divide_and_conquer/strassen_matrix_multiplication.py)
 
@@ -361,6 +364,7 @@
   * [Random Forest Regressor](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/random_forest_regressor.py)
   * [Scoring Functions](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/scoring_functions.py)
   * [Sequential Minimum Optimization](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/sequential_minimum_optimization.py)
+  * [Similarity Search](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/similarity_search.py)
   * [Support Vector Machines](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/support_vector_machines.py)
   * [Word Frequency Functions](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/word_frequency_functions.py)
 
@@ -389,6 +393,7 @@
   * [Chudnovsky Algorithm](https://github.com/TheAlgorithms/Python/blob/master/maths/chudnovsky_algorithm.py)
   * [Collatz Sequence](https://github.com/TheAlgorithms/Python/blob/master/maths/collatz_sequence.py)
   * [Combinations](https://github.com/TheAlgorithms/Python/blob/master/maths/combinations.py)
+  * [Decimal Isolate](https://github.com/TheAlgorithms/Python/blob/master/maths/decimal_isolate.py)
   * [Entropy](https://github.com/TheAlgorithms/Python/blob/master/maths/entropy.py)
   * [Eulers Totient](https://github.com/TheAlgorithms/Python/blob/master/maths/eulers_totient.py)
   * [Explicit Euler](https://github.com/TheAlgorithms/Python/blob/master/maths/explicit_euler.py)
@@ -452,6 +457,7 @@
     * [Harmonic Series](https://github.com/TheAlgorithms/Python/blob/master/maths/series/harmonic_series.py)
     * [P Series](https://github.com/TheAlgorithms/Python/blob/master/maths/series/p_series.py)
   * [Sieve Of Eratosthenes](https://github.com/TheAlgorithms/Python/blob/master/maths/sieve_of_eratosthenes.py)
+  * [Sigmoid](https://github.com/TheAlgorithms/Python/blob/master/maths/sigmoid.py)
   * [Simpson Rule](https://github.com/TheAlgorithms/Python/blob/master/maths/simpson_rule.py)
   * [Softmax](https://github.com/TheAlgorithms/Python/blob/master/maths/softmax.py)
   * [Square Root](https://github.com/TheAlgorithms/Python/blob/master/maths/square_root.py)
@@ -492,6 +498,7 @@
   * [Autocomplete Using Trie](https://github.com/TheAlgorithms/Python/blob/master/other/autocomplete_using_trie.py)
   * [Binary Exponentiation](https://github.com/TheAlgorithms/Python/blob/master/other/binary_exponentiation.py)
   * [Binary Exponentiation 2](https://github.com/TheAlgorithms/Python/blob/master/other/binary_exponentiation_2.py)
+  * [Davis–Putnam–Logemann–Loveland](https://github.com/TheAlgorithms/Python/blob/master/other/davis–putnam–logemann–loveland.py)
   * [Detecting English Programmatically](https://github.com/TheAlgorithms/Python/blob/master/other/detecting_english_programmatically.py)
   * [Dijkstra Bankers Algorithm](https://github.com/TheAlgorithms/Python/blob/master/other/dijkstra_bankers_algorithm.py)
   * [Doomsday](https://github.com/TheAlgorithms/Python/blob/master/other/doomsday.py)
@@ -520,6 +527,7 @@
   * [Sierpinski Triangle](https://github.com/TheAlgorithms/Python/blob/master/other/sierpinski_triangle.py)
   * [Tower Of Hanoi](https://github.com/TheAlgorithms/Python/blob/master/other/tower_of_hanoi.py)
   * [Triplet Sum](https://github.com/TheAlgorithms/Python/blob/master/other/triplet_sum.py)
+  * [Two Pointer](https://github.com/TheAlgorithms/Python/blob/master/other/two_pointer.py)
   * [Two Sum](https://github.com/TheAlgorithms/Python/blob/master/other/two_sum.py)
   * [Word Patterns](https://github.com/TheAlgorithms/Python/blob/master/other/word_patterns.py)
 
@@ -659,6 +667,8 @@
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_048/sol1.py)
   * Problem 049
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_049/sol1.py)
+  * Problem 050
+    * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_050/sol1.py)
   * Problem 051
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_051/sol1.py)
   * Problem 052
@@ -674,16 +684,22 @@
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_056/sol1.py)
   * Problem 057
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_057/sol1.py)
+  * Problem 058
+    * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_058/sol1.py)
   * Problem 062
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_062/sol1.py)
   * Problem 063
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_063/sol1.py)
+  * Problem 064
+    * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_064/sol1.py)
   * Problem 065
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_065/sol1.py)
   * Problem 067
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_067/sol1.py)
   * Problem 069
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_069/sol1.py)
+  * Problem 070
+    * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_070/sol1.py)
   * Problem 071
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_071/sol1.py)
   * Problem 072
@@ -691,6 +707,7 @@
     * [Sol2](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_072/sol2.py)
   * Problem 074
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_074/sol1.py)
+    * [Sol2](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_074/sol2.py)
   * Problem 075
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_075/sol1.py)
   * Problem 076
@@ -699,6 +716,8 @@
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_080/sol1.py)
   * Problem 081
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_081/sol1.py)
+  * Problem 087
+    * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_087/sol1.py)
   * Problem 091
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_091/sol1.py)
   * Problem 097
@@ -713,6 +732,8 @@
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_119/sol1.py)
   * Problem 120
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_120/sol1.py)
+  * Problem 123
+    * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_123/sol1.py)
   * Problem 125
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_125/sol1.py)
   * Problem 173
@@ -721,8 +742,16 @@
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_174/sol1.py)
   * Problem 191
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_191/sol1.py)
+  * Problem 203
+    * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_203/sol1.py)
+  * Problem 206
+    * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_206/sol1.py)
+  * Problem 207
+    * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_207/sol1.py)
   * Problem 234
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_234/sol1.py)
+  * Problem 301
+    * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_301/sol1.py)
   * Problem 551
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_551/sol1.py)
 
@@ -731,6 +760,7 @@
   * [Half Adder](https://github.com/TheAlgorithms/Python/blob/master/quantum/half_adder.py)
   * [Not Gate](https://github.com/TheAlgorithms/Python/blob/master/quantum/not_gate.py)
   * [Quantum Entanglement](https://github.com/TheAlgorithms/Python/blob/master/quantum/quantum_entanglement.py)
+  * [Ripple Adder Classic](https://github.com/TheAlgorithms/Python/blob/master/quantum/ripple_adder_classic.py)
   * [Single Qubit Measure](https://github.com/TheAlgorithms/Python/blob/master/quantum/single_qubit_measure.py)
 
 ## Scheduling
@@ -815,6 +845,7 @@
   * [Prefix Function](https://github.com/TheAlgorithms/Python/blob/master/strings/prefix_function.py)
   * [Rabin Karp](https://github.com/TheAlgorithms/Python/blob/master/strings/rabin_karp.py)
   * [Remove Duplicate](https://github.com/TheAlgorithms/Python/blob/master/strings/remove_duplicate.py)
+  * [Reverse Letters](https://github.com/TheAlgorithms/Python/blob/master/strings/reverse_letters.py)
   * [Reverse Words](https://github.com/TheAlgorithms/Python/blob/master/strings/reverse_words.py)
   * [Split](https://github.com/TheAlgorithms/Python/blob/master/strings/split.py)
   * [Swap Case](https://github.com/TheAlgorithms/Python/blob/master/strings/swap_case.py)
@@ -829,6 +860,7 @@
   * [Co2 Emission](https://github.com/TheAlgorithms/Python/blob/master/web_programming/co2_emission.py)
   * [Covid Stats Via Xpath](https://github.com/TheAlgorithms/Python/blob/master/web_programming/covid_stats_via_xpath.py)
   * [Crawl Google Results](https://github.com/TheAlgorithms/Python/blob/master/web_programming/crawl_google_results.py)
+  * [Crawl Google Scholar Citation](https://github.com/TheAlgorithms/Python/blob/master/web_programming/crawl_google_scholar_citation.py)
   * [Current Stock Price](https://github.com/TheAlgorithms/Python/blob/master/web_programming/current_stock_price.py)
   * [Current Weather](https://github.com/TheAlgorithms/Python/blob/master/web_programming/current_weather.py)
   * [Daily Horoscope](https://github.com/TheAlgorithms/Python/blob/master/web_programming/daily_horoscope.py)
